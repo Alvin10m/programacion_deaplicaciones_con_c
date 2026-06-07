@@ -1,4 +1,8 @@
-﻿Console.WriteLine("Ingrese su nombre: ");
+﻿
+/*
+
+
+Console.WriteLine("Ingrese su nombre: ");
 string nombreUsuario = Console.ReadLine();
 
 Console.WriteLine("Ingrese su edad: ");
@@ -44,4 +48,34 @@ if (edadUsuario >= 18)
 else
 {
     Console.WriteLine($"Lo sentimos {nombreUsuario}, eres menor de edad y no tienes acceso.");
+}
+
+*/
+
+
+
+
+
+
+Console.WriteLine("Ingrese la calificación del estudiante: ");
+float calificacion = float.Parse(Console.ReadLine());
+
+while (calificacion < 0)
+{
+    Console.WriteLine("La calificación no puede ser un valor negativo. Ingrese la calificación nuevamente:");
+    calificacion = float.Parse(Console.ReadLine());
+}
+while (calificacion > 100)
+{
+    Console.WriteLine("La calificación no puede ser mayor a 100. Ingrese la calificación nuevamente:");
+    calificacion = float.Parse(Console.ReadLine());
+}
+
+if (calificacion >= 60)
+{
+    Console.WriteLine("El estudiante ha sido aprobado.");
+}
+else
+{
+    Console.WriteLine("El estudiante no ha sido aprobado.");
 }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CarroOOP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdc0654c0c4fcb16e98b93ac6969f6b251a5c69c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c156dafa846cb616877e0c33eaeb36fa1cfd418")]
 [assembly: System.Reflection.AssemblyProductAttribute("CarroOOP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CarroOOP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

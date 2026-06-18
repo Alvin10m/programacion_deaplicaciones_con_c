@@ -3,7 +3,7 @@
 
 using System;
 
-class Program
+class Program1
 {
     static void Main()
     {
@@ -18,9 +18,8 @@ class Program
 /* 2. Suma de números: Utiliza un ciclo while para calcular y mostrar la suma de los primeros 100 números naturales.*/
 
 
-using System;
-
-class Program
+// using directives above
+class Program2
 {
     static void Main()
     {
@@ -41,9 +40,7 @@ class Program
 /* 3. Tabla de multiplicar: Solicita al usuario un número y muestra su tabla de multiplicar del 1 al 10 usando un ciclo for. */
 
 
-using System;
-
-class Program
+class Program3
 {
     static void Main()
     {
@@ -61,9 +58,7 @@ class Program
 
 /* 4. Números pares: Usa un ciclo for para mostrar todos los números pares entre 1 y 50. */
 
-using System;
-
-class Program
+class Program4
 {
     static void Main()
     {
@@ -80,23 +75,21 @@ class Program
 
 /* 5. Promedio de notas Pide al usuario la cantidad de notas a ingresar. Luego, usando un ciclo for, solicita cada nota y calcula el promedio final. */
 
-using System;
-
-class Program
+class Program5
 {
     static void Main()
     {
-        Console.Write("Cuaántas notas quiere ingresar: ");
-        int.cantidad = Convert.ToINT32(Console.Readline());
+        Console.Write("Cuántas notas quiere ingresar: ");
+        int cantidad = Convert.ToInt32(Console.ReadLine());
 
         double suma = 0;
 
         for (int h = 0; h < cantidad; h++)
         {
-            Console.Write("Ingrese la nota " + h + ": ");
+            Console.Write("Ingrese la nota " + (h + 1) + ": ");
             double nota = Convert.ToDouble(Console.ReadLine());
 
-            suma_notas = suma + nota;
+            suma += nota;
         }
 
         double promedio = suma / cantidad;
@@ -107,9 +100,7 @@ class Program
 
 /* 6. Arreglo de números: Declara un arreglo de 5 números enteros. Usa un ciclo for para cargar los valores y otro ciclo para mostrarlos en pantalla. */
 
-using System;
-
-class Program
+class Program6
 {
     static void Main()
     {
@@ -126,14 +117,12 @@ class Program
             Console.WriteLine(numbers[i]);
         }
 
-        }
     }
 }
 
 
 /* 7. Mayor y menor en un arreglo Crea un programa que solicite al usuario 10 números, los almacene en un arreglo y, usando un ciclo repetitivo, determine el número mayor y el menor.*/
 
-using System;
 class Program
 {
     static void Main()
@@ -165,12 +154,7 @@ class Program
         Console.WriteLine("The least number is: " + least);
     }
 }
-
-
 /* 8. Contador de positivos, negativos y ceros: Llena un arreglo con n números ingresados por el usuario. Recorre el arreglo con un ciclo y cuenta cuántos son positivos, negativos y cuántos son ceros.*/
-
-
-using System;
 
 class Program
 {
@@ -215,8 +199,6 @@ class Program
 
 /* 9. Búsqueda en un arreglo: Crea un arreglo de números enteros y pide al usuario un valor a buscar. Utiliza un ciclo for o while para indicar si el número existe en el arreglo y en qué posición se encuentra. */
 
-using System;
-
 class Program
 {
     static void Main()
@@ -255,8 +237,6 @@ class Program
 
 
 /* 10. Frecuencia de valores: Solicita al usuario una lista de números (almacenados en un arreglo). Luego, usando ciclos repetitivos, determina cuántas veces se repite cada número y muestra el resultado. */
-
-using System;
 
 class Program
 {

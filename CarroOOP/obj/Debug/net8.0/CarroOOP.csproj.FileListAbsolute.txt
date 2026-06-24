@@ -1,0 +1,28 @@
+/home/alvin/Escritorio/programación de app/CarroOOP/bin/Debug/net8.0/CarroOOP
+/home/alvin/Escritorio/programación de app/CarroOOP/bin/Debug/net8.0/CarroOOP.deps.json
+/home/alvin/Escritorio/programación de app/CarroOOP/bin/Debug/net8.0/CarroOOP.runtimeconfig.json
+/home/alvin/Escritorio/programación de app/CarroOOP/bin/Debug/net8.0/CarroOOP.dll
+/home/alvin/Escritorio/programación de app/CarroOOP/bin/Debug/net8.0/CarroOOP.pdb
+/home/alvin/Escritorio/programación de app/CarroOOP/obj/Debug/net8.0/CarroOOP.GeneratedMSBuildEditorConfig.editorconfig
+/home/alvin/Escritorio/programación de app/CarroOOP/obj/Debug/net8.0/CarroOOP.AssemblyInfoInputs.cache
+/home/alvin/Escritorio/programación de app/CarroOOP/obj/Debug/net8.0/CarroOOP.AssemblyInfo.cs
+/home/alvin/Escritorio/programación de app/CarroOOP/obj/Debug/net8.0/CarroOOP.csproj.CoreCompileInputs.cache
+/home/alvin/Escritorio/programación de app/CarroOOP/obj/Debug/net8.0/CarroOOP.dll
+/home/alvin/Escritorio/programación de app/CarroOOP/obj/Debug/net8.0/refint/CarroOOP.dll
+/home/alvin/Escritorio/programación de app/CarroOOP/obj/Debug/net8.0/CarroOOP.pdb
+/home/alvin/Escritorio/programación de app/CarroOOP/obj/Debug/net8.0/CarroOOP.genruntimeconfig.cache
+/home/alvin/Escritorio/programación de app/CarroOOP/obj/Debug/net8.0/ref/CarroOOP.dll
+/home/alvin/Escritorio/Trabajos, prácticas y ejercicios /programación de app/CarroOOP/obj/Debug/net8.0/CarroOOP.GeneratedMSBuildEditorConfig.editorconfig
+/home/alvin/Escritorio/Trabajos, prácticas y ejercicios /programación de app/CarroOOP/obj/Debug/net8.0/CarroOOP.AssemblyInfoInputs.cache
+/home/alvin/Escritorio/Trabajos, prácticas y ejercicios /programación de app/CarroOOP/obj/Debug/net8.0/CarroOOP.AssemblyInfo.cs
+/home/alvin/Escritorio/Trabajos, prácticas y ejercicios /programación de app/CarroOOP/obj/Debug/net8.0/CarroOOP.csproj.CoreCompileInputs.cache
+/home/alvin/Escritorio/Trabajos, prácticas y ejercicios /programación de app/CarroOOP/obj/Debug/net8.0/CarroOOP.dll
+/home/alvin/Escritorio/Trabajos, prácticas y ejercicios /programación de app/CarroOOP/obj/Debug/net8.0/refint/CarroOOP.dll
+/home/alvin/Escritorio/Trabajos, prácticas y ejercicios /programación de app/CarroOOP/obj/Debug/net8.0/CarroOOP.pdb
+/home/alvin/Escritorio/Trabajos, prácticas y ejercicios /programación de app/CarroOOP/bin/Debug/net8.0/CarroOOP
+/home/alvin/Escritorio/Trabajos, prácticas y ejercicios /programación de app/CarroOOP/bin/Debug/net8.0/CarroOOP.deps.json
+/home/alvin/Escritorio/Trabajos, prácticas y ejercicios /programación de app/CarroOOP/bin/Debug/net8.0/CarroOOP.runtimeconfig.json
+/home/alvin/Escritorio/Trabajos, prácticas y ejercicios /programación de app/CarroOOP/bin/Debug/net8.0/CarroOOP.dll
+/home/alvin/Escritorio/Trabajos, prácticas y ejercicios /programación de app/CarroOOP/bin/Debug/net8.0/CarroOOP.pdb
+/home/alvin/Escritorio/Trabajos, prácticas y ejercicios /programación de app/CarroOOP/obj/Debug/net8.0/CarroOOP.genruntimeconfig.cache
+/home/alvin/Escritorio/Trabajos, prácticas y ejercicios /programación de app/CarroOOP/obj/Debug/net8.0/ref/CarroOOP.dll

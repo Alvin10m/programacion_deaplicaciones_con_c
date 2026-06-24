@@ -1,0 +1,15 @@
+/home/alvin/Escritorio/Trabajos, prácticas y ejercicios /programación de app/trabajandoconIFyElse/bin/Debug/net8.0/trabajandoconIFyElse
+/home/alvin/Escritorio/Trabajos, prácticas y ejercicios /programación de app/trabajandoconIFyElse/bin/Debug/net8.0/trabajandoconIFyElse.deps.json
+/home/alvin/Escritorio/Trabajos, prácticas y ejercicios /programación de app/trabajandoconIFyElse/bin/Debug/net8.0/trabajandoconIFyElse.runtimeconfig.json
+/home/alvin/Escritorio/Trabajos, prácticas y ejercicios /programación de app/trabajandoconIFyElse/bin/Debug/net8.0/trabajandoconIFyElse.dll
+/home/alvin/Escritorio/Trabajos, prácticas y ejercicios /programación de app/trabajandoconIFyElse/bin/Debug/net8.0/trabajandoconIFyElse.pdb
+/home/alvin/Escritorio/Trabajos, prácticas y ejercicios /programación de app/trabajandoconIFyElse/obj/Debug/net8.0/trabajandoconIFyElse.GeneratedMSBuildEditorConfig.editorconfig
+/home/alvin/Escritorio/Trabajos, prácticas y ejercicios /programación de app/trabajandoconIFyElse/obj/Debug/net8.0/trabajandoconIFyElse.AssemblyInfoInputs.cache
+/home/alvin/Escritorio/Trabajos, prácticas y ejercicios /programación de app/trabajandoconIFyElse/obj/Debug/net8.0/trabajandoconIFyElse.AssemblyInfo.cs
+/home/alvin/Escritorio/Trabajos, prácticas y ejercicios /programación de app/trabajandoconIFyElse/obj/Debug/net8.0/trabajandoconIFyElse.csproj.CoreCompileInputs.cache
+/home/alvin/Escritorio/Trabajos, prácticas y ejercicios /programación de app/trabajandoconIFyElse/obj/Debug/net8.0/trabajandoconIFyElse.sourcelink.json
+/home/alvin/Escritorio/Trabajos, prácticas y ejercicios /programación de app/trabajandoconIFyElse/obj/Debug/net8.0/trabajandoconIFyElse.dll
+/home/alvin/Escritorio/Trabajos, prácticas y ejercicios /programación de app/trabajandoconIFyElse/obj/Debug/net8.0/refint/trabajandoconIFyElse.dll
+/home/alvin/Escritorio/Trabajos, prácticas y ejercicios /programación de app/trabajandoconIFyElse/obj/Debug/net8.0/trabajandoconIFyElse.pdb
+/home/alvin/Escritorio/Trabajos, prácticas y ejercicios /programación de app/trabajandoconIFyElse/obj/Debug/net8.0/trabajandoconIFyElse.genruntimeconfig.cache
+/home/alvin/Escritorio/Trabajos, prácticas y ejercicios /programación de app/trabajandoconIFyElse/obj/Debug/net8.0/ref/trabajandoconIFyElse.dll
